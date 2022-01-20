@@ -1,5 +1,5 @@
 # Six Degrees of Wikipedia Game
-This project was implemented as a homework for Data Structures taight by Anya Vostinar.
+This project is an adaptation of code which was originally implemented as a homework for Data Structures taught by Anya Vostinar.
 ## Overview:
 The program models a game where a user starts from a a Wikipedia article and tries to get to another specific wikipedia article by using links present in the articles in as few articles as possible. Here is a [Wikipedia article](https://en.wikipedia.org/wiki/Wikipedia:Six_degrees_of_Wikipedia) about it. 
 This program finds the shortest path connecting two given articles within a specific user provided dataset. With this program you can:
